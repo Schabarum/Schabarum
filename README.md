@@ -6,7 +6,7 @@
   <img width="48% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schabarum&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### 💻 Atualmente atuo como desenvolvedor de software no Grupo Dass, trabalhando com a Linguagem de programação Delphi e PL/SQL Oracle
+### 💻 Atualmente atuo como desenvolvedor de software, trabalhando com a Linguagem de programação Delphi e PL/SQL Oracle
   
 ### Interesses
 <div>
