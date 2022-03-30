@@ -8,8 +8,6 @@
 
 ### 💻 Atualmente atuo como desenvolvedor de software no Grupo Dass, trabalhando com a Linguagem de programação Delphi e PL/SQL Oracle
   
-### 📚 Apesar de trabalhar com Delphi e PL/SQL, no momento me dedico ao estudo de Linguagens Web
-  
 ### Interesses
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
